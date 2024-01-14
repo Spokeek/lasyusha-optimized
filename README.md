@@ -2,6 +2,8 @@
 
 This project is a trial to use NDMF module to bring an avatar asset to an optimized step only with modular tools.
 
+This is all thanks to the work of the original creator, Keenoo at <https://keenooshop.booth.pm>
+
 This is based on the NDMF modular framework.
 <https://github.com/bdunderscore/ndmf>
 
